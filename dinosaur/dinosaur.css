@@ -4,7 +4,7 @@ body {
   margin: 0px;
 }
 div {
-  min-height: 525vh;
+  min-height: 10vh;
   width: 100vw;
 }
 h1 {
