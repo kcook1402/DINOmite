@@ -8,7 +8,7 @@ div {
   width: 100vw;
 }
 h1 {
-  font-size: 5em;
+  font-size: 3em;
   font-family: 'Helvetica', sans-serif;
     text-align: top-left;
     margin: 10vh 12vw;
@@ -41,7 +41,7 @@ ol {
   padding: 0;
   margin-bottom: 10%;
   margin-top: 3%;
-  font-size: 3em;
+  font-size: 1.5em;
   display: flex;
   justify-content: space-evenly;
   font-family: helvetica;
@@ -72,5 +72,5 @@ li {
   transition: 0.6s ease;
 }
 li:hover {
-  fontsize: 1.2em;
+  fontsize: 1.5em;
   transition: 0.6s ease;
