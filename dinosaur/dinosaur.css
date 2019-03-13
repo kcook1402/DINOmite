@@ -5,7 +5,7 @@ body {
 }
 div {
   min-height: 10vh;
-  width: 100vw;
+
 }
 h1 {
   font-size: 3em;
@@ -74,3 +74,13 @@ li {
 li:hover {
   fontsize: 1.5em;
   transition: 0.6s ease;
+}
+
+form {
+  margin-left: 100px;
+margin-right: 100px;
+}
+
+#name {
+  margin-bottom: 50px;
+}
